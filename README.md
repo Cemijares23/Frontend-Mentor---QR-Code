@@ -9,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -25,9 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Leave some feedback](https://www.frontendmentor.io/solutions/qr-component-applying-some-bem-css-EebpYC6Pxr)
-- Live Site URL: [My netlify link](https://chrisqrcode-challenge.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-applying-some-bem-css-EebpYC6Pxr](https://www.frontendmentor.io/solutions/qr-component-applying-some-bem-css-EebpYC6Pxr)
+- Live Site URL: [https://chrisqrcode-challenge.netlify.app/](https://chrisqrcode-challenge.netlify.app/)
 
+## My process
 
 ### Built with
 
@@ -44,6 +43,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Chris](https://freelancer-christophermijares.netlify.app/)
+- Website - [https://freelancer-christophermijares.netlify.app/](https://freelancer-christophermijares.netlify.app/)
 - Frontend Mentor - [@cemijares23](https://www.frontendmentor.io/profile/cemijares23)
 - Instagram- [@cmijares23](https://www.instagram.com/cmijares23/)
